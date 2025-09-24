@@ -1,0 +1,8 @@
+Category,Part,Spec,Qty,Link,Notes
+Pump,DC Pump,12V,4,,라인별 1개
+Relay,4-Channel,5V Opto,1,,
+PSU,Adapter,12V 60W,1,,
+Raspberry Pi,Model,3 or 4,1,,
+Tubing,PU,OD6mm,5m,,
+Check Valve,Inline,6mm,4,,
+Vent Filter,Air vent,for cartridge,4,,

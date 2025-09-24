@@ -1,0 +1,8 @@
+{
+  "deviceUuid": "CHANGE-ME",
+  "broker": "tcp://YOUR_BROKER_HOST:1883",
+  "lines": { "1":17, "2":27, "3":22, "4":23 },
+  "pulse_sec": { "1":0.80, "2":0.80, "3":0.80, "4":0.80 },
+  "topic_rx": "dispenser/DEVICE_UUID/dose",
+  "topic_tx": "dispenser/DEVICE_UUID/status"
+}
